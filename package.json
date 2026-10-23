@@ -1,0 +1,27 @@
+{
+  "name": "toeic-practice-engine",
+  "version": "1.0.0",
+  "description": "TOEIC Practice Engine - Pure TypeScript CLI application",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "typescript",
+    "oop",
+    "toeic",
+    "cli",
+    "vitest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.0"
+  }
+}
