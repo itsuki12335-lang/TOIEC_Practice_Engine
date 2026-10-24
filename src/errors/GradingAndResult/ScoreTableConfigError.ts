@@ -10,7 +10,7 @@ export class ScoreTableConfigError extends DomainError {
     super(
       !context
         ? `Bảng cấu hình quy đổi điểm TOEIC không hợp lệ hoặc chưa được nạp vào hệ thống`
-        : `Không tìm thấy điểm quy đổi cho [rawScore] câu đúng của phần thi [section] trong bảng cấu hình điểm TOEIC.`,
+        : `Không tìm thấy điểm quy đổi cho ${context.rawScore} câu đúng của phần thi ${context.section} trong bảng cấu hình điểm TOEIC.`,
     );
   }
 }
