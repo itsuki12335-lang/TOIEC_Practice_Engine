@@ -1,4 +1,4 @@
-import { Section } from "../../models/Entity.js";
+import { Section } from "../../models/BaseEntity.js";
 import { DomainError } from "../BaseError/DomainError.js";
 export interface ScoreTableConfigErrorContext {
   readonly section: Section;
