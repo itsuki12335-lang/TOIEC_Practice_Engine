@@ -1,4 +1,4 @@
-import { PartNumber } from "../../models/Entity.js";
+import { PartNumber } from "../../models/BaseEntity.js";
 import { DomainError } from "../BaseError/DomainError.js";
 // Số lượng đáp án không đúng với chuẩn TOEIC
 // 3 đáp án ở Part 2 , 4 ở các Part còn lại
