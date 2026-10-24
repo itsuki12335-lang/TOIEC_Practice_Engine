@@ -3,6 +3,5 @@ import { DomainError } from "../BaseError/DomainError.js";
 export class QuestionNotFoundError extends DomainError {
   constructor(public readonly questionId: string) {
     super(`Không tìm thấy câu hỏi có ID : ${questionId}`);
-    this.questionId = questionId;
   }
 }
