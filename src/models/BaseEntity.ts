@@ -22,6 +22,16 @@ export type Difficulty = 1 | 2 | 3; // Độ khó Easy | Medium | Hard
 
 export interface BaseEntity {
   readonly id: string;
-  readonly createdAt: Date;
+  readonly createdAt?: Date;
   updatedAt?: Date;
+}
+// Nếu là chuỗi rỗng , trả về true
+export function invalidString(inputString: string): boolean {
+  if (inputString.trim() === "") return true;
+  return false;
+}
+// Nếu ko phải là số NGUYÊN DƯƠNG , trả về true
+export function invalidPositiveNumber(inputNumber: number): boolean {
+  if (inputNumber < 1 || !Number.isInteger(inputNumber)) return true;
+  return false;
 }
