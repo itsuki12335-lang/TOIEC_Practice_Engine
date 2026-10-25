@@ -1,6 +1,11 @@
 import { InvalidNumberError } from "../../errors/InvalidError/InvalidNumberError.js";
 import { InvalidStringError } from "../../errors/InvalidError/InvalidStringError.js";
-import { BaseEntity, ExamStatus } from "../BaseEntity.js";
+import {
+  BaseEntity,
+  ExamStatus,
+  invalidPositiveNumber,
+  invalidString,
+} from "../BaseEntity.js";
 
 export interface ExamOption {
   id: string;
@@ -25,23 +30,17 @@ export class Exam implements BaseEntity {
   updatedAt?: Date;
 
   constructor(options: ExamOption) {
-    if (options.id.trim() === "") {
+    if (invalidString(options.id)) {
       throw new InvalidStringError("id");
     }
-    if (options.title.trim() === "") {
+    if (invalidString(options.title)) {
       throw new InvalidStringError("title");
     }
-    if (
-      !Number.isInteger(options.durationMinutes) ||
-      options.durationMinutes <= 0
-    ) {
+    if (invalidPositiveNumber(options.durationMinutes)) {
       throw new InvalidNumberError(options.durationMinutes);
     }
     if (options.totalQuestions !== undefined) {
-      if (
-        !Number.isInteger(options.totalQuestions) ||
-        options.totalQuestions <= 0
-      ) {
+      if (invalidPositiveNumber(options.totalQuestions)) {
         throw new InvalidNumberError(options.totalQuestions);
       }
     }
