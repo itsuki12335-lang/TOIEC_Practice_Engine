@@ -1,6 +1,6 @@
 import { InvalidScoreTOEICError } from "../../errors/InvalidError/InvalidScoreTOEICError.js";
 import { InvalidStringError } from "../../errors/InvalidError/InvalidStringError.js";
-import { InvalidDateError } from "../../errors/InvalidError/InvalidTimeError.js";
+import { InvalidDateError } from "../../errors/InvalidError/InvalidDateError.js";
 import { BaseEntity, invalidString, invalidTOEICScore } from "../BaseEntity.js";
 
 export interface LearnerOption {
