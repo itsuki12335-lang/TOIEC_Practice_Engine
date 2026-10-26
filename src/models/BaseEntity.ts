@@ -35,3 +35,13 @@ export function invalidPositiveNumber(inputNumber: number): boolean {
   if (inputNumber < 1 || !Number.isInteger(inputNumber)) return true;
   return false;
 }
+export function invalidTOEICScore(inputNum: number) {
+  if (
+    inputNum < 10 ||
+    inputNum > 990 ||
+    !Number.isInteger(inputNum) ||
+    inputNum % 5 !== 0
+  )
+    return true;
+  return false;
+}
