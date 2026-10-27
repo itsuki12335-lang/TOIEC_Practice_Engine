@@ -1,9 +1,9 @@
 import { DomainError } from "../BaseError/DomainError.js";
 
 export class InvalidDateError extends DomainError {
-  constructor(examDate: Date, currentDate: Date) {
+  constructor(inputDate: Date, minDate: Date) {
     super(
-      `Ngày thi dự kiến ${examDate} không hợp lệ . Ngày thi dự kiến phải lớn hơn ${currentDate} `,
+      `Mốc thời gian ${inputDate} không hợp lệ. Thời gian này không được nhỏ hơn mốc ${minDate}.`,
     );
   }
 }
