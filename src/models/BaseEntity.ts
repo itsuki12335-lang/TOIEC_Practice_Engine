@@ -7,8 +7,9 @@ export type ExamStatus = "DRAFT" | "PUBLISHED" | "ARCHIVED";
    PUBLISHED : đã công khai
    ARCHIVED : Đã hết hạn
   */
-export type AttemptStatus = "IN_PROGRESS" | "SUBMITTED" | "EXPIRED";
+export type AttemptStatus = "WAITING" | "IN_PROGRESS" | "SUBMITTED" | "EXPIRED";
 /* Trạng thái bài thi 
+    WAITING : Đang chờ được làm
     IN_PROGRESS : Đang làm
     SUMITTED : Đã nộp 
     EXPIRED : Hết giờ nhưng chưa kịp nộp
