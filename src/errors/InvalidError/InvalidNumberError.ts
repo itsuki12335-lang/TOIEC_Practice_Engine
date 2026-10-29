@@ -5,7 +5,7 @@ export class InvalidNumberError extends DomainError {
     super(
       num !== undefined
         ? `Phải là số nguyên dương.Số hiện tại : ${num}`
-        : `Phải là số nguyên dương`,
+        : `Phải là số dương nằm trong khoảng từ 0 - 100`,
     );
   }
 }
