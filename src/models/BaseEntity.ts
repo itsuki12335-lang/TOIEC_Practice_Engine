@@ -36,7 +36,7 @@ export function invalidPositiveNumber(inputNumber: number): boolean {
   if (inputNumber < 1 || !Number.isInteger(inputNumber)) return true;
   return false;
 }
-export function invalidTOEICScore(inputNum: number) {
+export function invalidTOEICScore(inputNum: number): boolean {
   if (
     inputNum < 10 ||
     inputNum > 990 ||
@@ -44,5 +44,15 @@ export function invalidTOEICScore(inputNum: number) {
     inputNum % 5 !== 0
   )
     return true;
+  return false;
+}
+export function invalidNonNegativeNumber(inputNum: number): boolean {
+  if (inputNum < 0 || !Number.isInteger(inputNum)) return true;
+  return false;
+}
+export function invalidSectionScore(score: number): boolean {
+  if (score < 5 || score > 495 || !Number.isInteger(score) || score % 5 != 0) {
+    return true;
+  }
   return false;
 }
