@@ -1,0 +1,461 @@
+[
+  {
+    "id": "group-mini-p3",
+    "examId": "exam-mini-01",
+    "part": 3,
+    "order": 1,
+    "passageType": "conversation",
+    "passage": "W: Hi Mr. Kim, did you receive the updated budget report for the marketing campaign?\nM: Yes, I just reviewed it this morning. It looks like travel expenses increased by 10 percent.\nW: Right, that's because of the upcoming trade show in Singapore next month.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-mini-p4",
+    "examId": "exam-mini-01",
+    "part": 4,
+    "order": 1,
+    "passageType": "announcement",
+    "passage": "Attention all passengers waiting to board Flight 402 to Tokyo. Due to a minor mechanical inspection, boarding will be delayed by approximately thirty minutes. We apologize for the inconvenience and invite you to enjoy complimentary refreshments at Gate 14B.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-mini-p6",
+    "examId": "exam-mini-01",
+    "part": 6,
+    "order": 1,
+    "passageType": "email",
+    "passage": "To: All Staff\nFrom: Human Resources\nSubject: Annual Health Checkup\n\nPlease be reminded that the annual company health checkup will take place next week from Monday to Wednesday. All full-time employees are (11) ___ to register for a time slot through the internal portal before Friday at 5:00 P.M. (12) ___. If you have any dietary restrictions prior to the blood test, our medical partner will send guidelines to your email.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-mini-p7",
+    "examId": "exam-mini-01",
+    "part": 7,
+    "order": 1,
+    "passageType": "advertisement",
+    "passage": "GRAND OPENING: GREENLEAF OFFICE SUPPLIES\nVisit our newest branch at 240 Oak Street this Saturday, November 14! The first 50 customers will receive a free leather notebook. Enjoy a 20% discount on all ergonomic chairs and standing desks throughout the weekend. Free delivery is available for orders over $150.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-1",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 1,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #1] Business communication passage for questions starting at #32. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-2",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 2,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #2] Business communication passage for questions starting at #35. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-3",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 3,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #3] Business communication passage for questions starting at #38. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-4",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 4,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #4] Business communication passage for questions starting at #41. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-5",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 5,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #5] Business communication passage for questions starting at #44. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-6",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 6,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #6] Business communication passage for questions starting at #47. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-7",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 7,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #7] Business communication passage for questions starting at #50. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-8",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 8,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #8] Business communication passage for questions starting at #53. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-9",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 9,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #9] Business communication passage for questions starting at #56. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-10",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 10,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #10] Business communication passage for questions starting at #59. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-11",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 11,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #11] Business communication passage for questions starting at #62. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-12",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 12,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #12] Business communication passage for questions starting at #65. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p3-13",
+    "examId": "exam-full-01",
+    "part": 3,
+    "order": 13,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 3 Passage #13] Business communication passage for questions starting at #68. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-14",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 1,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #1] Business communication passage for questions starting at #71. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-15",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 2,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #2] Business communication passage for questions starting at #74. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-16",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 3,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #3] Business communication passage for questions starting at #77. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-17",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 4,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #4] Business communication passage for questions starting at #80. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-18",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 5,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #5] Business communication passage for questions starting at #83. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-19",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 6,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #6] Business communication passage for questions starting at #86. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-20",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 7,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #7] Business communication passage for questions starting at #89. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-21",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 8,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #8] Business communication passage for questions starting at #92. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-22",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 9,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #9] Business communication passage for questions starting at #95. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p4-23",
+    "examId": "exam-full-01",
+    "part": 4,
+    "order": 10,
+    "passageType": "audio_script",
+    "passage": "[ETS 2026 - Part 4 Passage #10] Business communication passage for questions starting at #98. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p6-24",
+    "examId": "exam-full-01",
+    "part": 6,
+    "order": 1,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 6 Passage #1] Business communication passage for questions starting at #131. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p6-25",
+    "examId": "exam-full-01",
+    "part": 6,
+    "order": 2,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 6 Passage #2] Business communication passage for questions starting at #134. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p6-26",
+    "examId": "exam-full-01",
+    "part": 6,
+    "order": 3,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 6 Passage #3] Business communication passage for questions starting at #137. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p6-27",
+    "examId": "exam-full-01",
+    "part": 6,
+    "order": 4,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 6 Passage #4] Business communication passage for questions starting at #140. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p6-28",
+    "examId": "exam-full-01",
+    "part": 6,
+    "order": 5,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 6 Passage #5] Business communication passage for questions starting at #143. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p6-29",
+    "examId": "exam-full-01",
+    "part": 6,
+    "order": 6,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 6 Passage #6] Business communication passage for questions starting at #146. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-30",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 1,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #1] Business communication passage for questions starting at #147. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-31",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 2,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #2] Business communication passage for questions starting at #150. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-32",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 3,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #3] Business communication passage for questions starting at #153. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-33",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 4,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #4] Business communication passage for questions starting at #156. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-34",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 5,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #5] Business communication passage for questions starting at #159. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-35",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 6,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #6] Business communication passage for questions starting at #162. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-36",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 7,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #7] Business communication passage for questions starting at #165. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-37",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 8,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #8] Business communication passage for questions starting at #168. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-38",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 9,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #9] Business communication passage for questions starting at #171. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-39",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 10,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #10] Business communication passage for questions starting at #174. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-40",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 11,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #11] Business communication passage for questions starting at #177. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-41",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 12,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #12] Business communication passage for questions starting at #180. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-42",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 13,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #13] Business communication passage for questions starting at #183. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-43",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 14,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #14] Business communication passage for questions starting at #186. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-44",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 15,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #15] Business communication passage for questions starting at #189. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-45",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 16,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #16] Business communication passage for questions starting at #192. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-46",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 17,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #17] Business communication passage for questions starting at #195. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-full-p7-47",
+    "examId": "exam-full-01",
+    "part": 7,
+    "order": 18,
+    "passageType": "reading_passage",
+    "passage": "[ETS 2026 - Part 7 Passage #18] Business communication passage for questions starting at #198. Please read carefully to answer the associated questions.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  }
+]

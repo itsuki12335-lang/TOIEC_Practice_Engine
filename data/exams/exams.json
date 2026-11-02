@@ -1,0 +1,32 @@
+[
+  {
+    "id": "exam-mini-01",
+    "title": "TOEIC Mini Test 01 (14 câu - Đủ 7 Part)",
+    "durationMinutes": 15,
+    "status": "PUBLISHED",
+    "totalQuestions": 14,
+    "source": "ETS Practice Sample",
+    "description": "Đề rút gọn gồm 14 câu (mỗi Part 2 câu) giúp kiểm thử nhanh luồng làm bài và chấm điểm trên CLI.",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "exam-full-01",
+    "title": "ETS TOEIC 2026 - Full Test 01 (200 câu)",
+    "durationMinutes": 120,
+    "status": "PUBLISHED",
+    "totalQuestions": 200,
+    "source": "ETS 2026 Official",
+    "description": "Đề thi TOEIC chuẩn 200 câu đầy đủ 7 Part (Listening 100 câu, Reading 100 câu).",
+    "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "exam-draft-01",
+    "title": "ETS TOEIC 2026 - Test 02 (Đang biên soạn)",
+    "durationMinutes": 120,
+    "status": "DRAFT",
+    "totalQuestions": 200,
+    "source": "ETS 2026 Official",
+    "description": "Đề thi ở trạng thái nháp (DRAFT) dùng để kiểm thử bộ lọc và lỗi ExamNotPublishedError.",
+    "createdAt": "2026-10-26T08:00:00.000Z"
+  }
+]
