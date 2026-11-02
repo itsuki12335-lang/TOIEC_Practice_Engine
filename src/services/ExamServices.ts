@@ -1,7 +1,6 @@
 import { ExamNotFoundError } from "../errors/ExamAndQuestionError/ExamNotFoundError.js";
 import { ExamNotPublishedError } from "../errors/ExamAndQuestionError/ExamNotPublishedError.js";
 import { QuestionNotFoundError } from "../errors/ExamAndQuestionError/QuestionNotFoundError.js";
-import { QuestionNotInExamError } from "../errors/ExamAndQuestionError/QuestionNotInExamError.js";
 import { PartNumber } from "../models/BaseEntity.js";
 import { Exam } from "../models/Entity/Exam.js";
 import { Question } from "../models/Entity/Question.js";
@@ -9,12 +8,15 @@ import { QuestionGroup } from "../models/Entity/QuestionGroup.js";
 import { JsonRepository } from "../repositories/JSONRepository.js";
 
 export class ExamServices {
-  private examRepo = new JsonRepository<Exam>("data/exams/exams.json", "Exam");
-  private questionRepo = new JsonRepository<Question>(
+  private readonly examRepo = new JsonRepository<Exam>(
+    "data/exams/exams.json",
+    "Exam",
+  );
+  private readonly questionRepo = new JsonRepository<Question>(
     "data/exams/questions.json",
     "Question",
   );
-  private questionGroupRepo = new JsonRepository<QuestionGroup>(
+  private readonly questionGroupRepo = new JsonRepository<QuestionGroup>(
     "data/exams/question-groups.json",
     "QuestionGroup",
   );
