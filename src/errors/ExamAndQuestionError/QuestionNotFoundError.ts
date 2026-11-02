@@ -4,8 +4,8 @@ export class QuestionNotFoundError extends DomainError {
   constructor(public readonly questionId?: string) {
     super(
       questionId
-        ? `Không tìm thấy câu hỏi có ID : ${questionId}`
-        : `Hiện chưa có câu hỏi nào`,
+        ? `Không tìm thấy câu hỏi(hoặc nhóm câu hỏi) có ID : ${questionId}`
+        : `Hiện chưa có câu hỏi(hoặc nhóm câu hỏi) nào`,
     );
   }
 }
