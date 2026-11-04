@@ -5,7 +5,7 @@ export class InvalidPartError extends DomainError {
     super(
       num !== undefined
         ? `Part phải là số nguyên dương từ 1 đến 7.Part hiện tại ${num}`
-        : `Part phải là số nguyên dương`,
+        : `Part hiện tại không hợp lệ`,
     );
   }
 }

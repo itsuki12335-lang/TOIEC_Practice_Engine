@@ -1,7 +1,8 @@
-// Entry point for TOEIC Practice Engine CLI
-export function bootstrap(): void {
-  console.log("=== TOEIC Practice Engine CLI ===");
-  console.log("Welcome! System initialized successfully.");
+import { ToeicCliApp } from "./cli/ToeicCliApp.js";
+
+export async function bootstrap(): Promise<void> {
+  const app = new ToeicCliApp();
+  await app.start();
 }
 
 bootstrap();

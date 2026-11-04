@@ -1,6 +1,7 @@
 import { QuestionNotFoundError } from "../../errors/ExamAndQuestionError/QuestionNotFoundError.js";
 import { InvalidDateError } from "../../errors/InvalidError/InvalidDateError.js";
 import { InvalidNumberError } from "../../errors/InvalidError/InvalidNumberError.js";
+import { InvalidPartError } from "../../errors/InvalidError/InvalidPartError.js";
 import { InvalidStringError } from "../../errors/InvalidError/InvalidStringError.js";
 import {
   AttemptMode,
@@ -74,6 +75,13 @@ export class Attempt implements BaseEntity {
           throw new InvalidDateError(this.submittedAt, this.startedAt);
       } else this.submittedAt = null;
     }
+    if (options.mode === "FULL_EXAM" && options.partFilter !== undefined)
+      throw new InvalidPartError();
+    if (
+      options.mode !== "FULL_EXAM" &&
+      (options.partFilter === undefined || options.partFilter.length === 0)
+    )
+      throw new InvalidPartError();
     this.id = options.id;
     this.learnerId = options.learnerId;
     this.examId = options.examId;

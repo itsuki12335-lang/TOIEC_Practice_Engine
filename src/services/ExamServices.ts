@@ -56,4 +56,12 @@ export class ExamServices {
     );
     return questionGroupTarget;
   }
+  async getQuestionById(questionId: string): Promise<Question> {
+    const questionTarget = await this.questionRepo.findById(questionId);
+    if (questionTarget === null) {
+      throw new QuestionNotFoundError();
+    } else {
+      return questionTarget;
+    }
+  }
 }

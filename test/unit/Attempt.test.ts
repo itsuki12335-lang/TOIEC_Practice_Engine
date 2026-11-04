@@ -33,7 +33,7 @@ describe("Entity: Attempt", () => {
       learnerId: "l-1",
       examId: "exam-1",
       status: "IN_PROGRESS",
-      mode: "PART_PRACTICE",
+      mode: "FULL_EXAM",
       questionIds: sampleQuestionIds,
       createdAt: start,
       startedAt: start,
