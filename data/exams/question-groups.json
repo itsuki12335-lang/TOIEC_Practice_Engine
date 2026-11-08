@@ -457,5 +457,77 @@
     "passageType": "reading_passage",
     "passage": "[ETS 2026 - Part 7 Passage #18] Business communication passage for questions starting at #198. Please read carefully to answer the associated questions.",
     "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "group-mini02-p3",
+    "createdAt": "2026-11-01T08:00:00.000Z",
+    "examId": "exam-mini-02",
+    "part": 3,
+    "passage": "W: Good morning, David. Did the printer technician come by yet to fix the paper feeder on the 3rd floor?\nM: Not yet, Sarah. He called and mentioned he was caught in heavy traffic on Highway 4. He should be here by 10:30.\nW: Thanks. I have to print forty copies of the financial handouts before the board meeting at 11:00.",
+    "order": 1,
+    "passageType": "conversation"
+  },
+  {
+    "id": "group-mini02-p4",
+    "createdAt": "2026-11-01T08:00:00.000Z",
+    "examId": "exam-mini-02",
+    "part": 4,
+    "passage": "Good evening, shoppers. Metro Superstore will be closing in fifteen minutes. Please take your selected items to the checkout lanes near the front entrance. If you hold a Metro Member Card, please present it to receive your special 10% holiday discount.",
+    "order": 1,
+    "passageType": "announcement"
+  },
+  {
+    "id": "group-mini02-p6",
+    "createdAt": "2026-11-01T08:00:00.000Z",
+    "examId": "exam-mini-02",
+    "part": 6,
+    "passage": "Dear Team,\nWe are pleased to announce that our company will be upgrading our customer support software this Saturday. The upgrade is expected to take four hours, beginning at midnight. During this time, the portal will be temporarily (11) ___. We apologize for any inconvenience and appreciate your (12) ___.\nSincerely,\nIT Department",
+    "order": 1,
+    "passageType": "email"
+  },
+  {
+    "id": "group-mini02-p7",
+    "createdAt": "2026-11-01T08:00:00.000Z",
+    "examId": "exam-mini-02",
+    "part": 7,
+    "passage": "MEMORANDUM\nTo: All Department Heads\nFrom: Facilities Management\nDate: November 5\nSubject: Office Energy Conservation Policy\nStarting next Monday, all employees are kindly requested to turn off monitors and desk lighting before leaving the office. In addition, the central air-conditioning temperature will be set at 25 degrees Celsius to reduce power consumption.",
+    "order": 1,
+    "passageType": "memo"
+  },
+  {
+    "id": "group-p7-01",
+    "createdAt": "2026-11-04T08:00:00.000Z",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "passage": "To: Liam Brooks <lbrooks@apexlogistics.com>\nFrom: Elena Rostova <erostova@novasolutions.com>\nDate: November 3\nSubject: Fleet Tracking Software Demo\n\nDear Mr. Brooks,\nThank you for attending our product webinar last Tuesday. As discussed, our GPS fleet tracking system can help Apex Logistics reduce fuel waste by up to 18% through automated route optimization. I would like to offer your team a complimentary 30-day pilot trial across ten of your delivery vans. If this timeframe works for you, our technical team can install the tracking hardware this Friday morning.\n\nBest regards,\nElena Rostova\nSenior Account Executive, Nova Solutions",
+    "order": 1,
+    "passageType": "email"
+  },
+  {
+    "id": "group-p7-02",
+    "createdAt": "2026-11-04T08:00:00.000Z",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "passage": "SUMMIT FITNESS CENTER - FACILITY RENOVATION SCHEDULE\nPlease be advised that our indoor heated pool and adjacent sauna will be closed for periodic maintenance and tile re-grouting from November 10 through November 17. During this interval, members in good standing may utilize the aquatic facilities at our Westside branch at no additional surcharge by displaying their Summit Gold membership key tag. All aerobic studios, free-weight areas, and cardio machinery will operate under normal operating hours.",
+    "order": 2,
+    "passageType": "notice"
+  },
+  {
+    "id": "group-p7-03",
+    "createdAt": "2026-11-04T08:00:00.000Z",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "passage": "CAREER OPPORTUNITY: SENIOR DATABASE ADMINISTRATOR\nGlobal FinTech Corp is seeking an experienced Senior Database Administrator for our downtown Singapore tech hub. Candidates must possess at least five years of experience administrating high-availability PostgreSQL clusters in cloud environments (AWS or GCP). Responsibilities encompass data encryption compliance, automated disaster recovery testing, and database query optimization. We offer comprehensive health insurance, stock equity grants, and flexible work-from-home options two days per week. To apply, submit your resume and GitHub profile to careers@globalfintech.com.",
+    "order": 3,
+    "passageType": "job_posting"
+  },
+  {
+    "id": "group-p7-04",
+    "createdAt": "2026-11-04T08:00:00.000Z",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "passage": "INVOICE #INV-8821\nVendor: Pacific Office Modern, Inc.\nClient: Horizon Media Group\nInvoice Date: October 28\nPayment Terms: Net 30 days\n\nItems Ordered:\n1. Ergonomic Mesh Chair (Model EC-400) - Qty: 12 @ $250.00 = $3,000.00\n2. Motorized Adjustable Standing Desk (Model SD-90) - Qty: 6 @ $450.00 = $2,700.00\n3. Dual-Arm Monitor Mount - Qty: 12 @ $60.00 = $720.00\n\nSubtotal: $6,420.00\nCorporate Volume Discount (10%): -$642.00\nStandard Ground Shipping: FREE (Orders over $1,500)\nTotal Amount Due: $5,778.00\n\nPlease remit payment via bank transfer before November 27.",
+    "order": 4,
+    "passageType": "invoice"
   }
 ]

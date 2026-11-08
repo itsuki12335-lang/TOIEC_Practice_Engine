@@ -75,4 +75,9 @@ export class JsonRepository<T extends BaseEntity> implements IRepository<T> {
     const newArr: T[] = data.filter(predicate);
     return newArr;
   }
+  async addMany(item: T[]): Promise<void> {
+    const data = await this.readData();
+    data.push(...item);
+    await this.writeData(data);
+  }
 }

@@ -30,6 +30,8 @@ export class AttemptServices {
     "data/storage/answer-records.json",
     "AnswerRecord",
   );
+  private ansRecordArray: AnswerRecord[] = [];
+  // Bắt đầu lượt thi
   async startAttempt(
     learnerId: string,
     examId: string,
@@ -59,6 +61,7 @@ export class AttemptServices {
     await this.attemptRepo.add(attempt);
     return attempt;
   }
+  //Lấy Id lượt thi
   async getAttemptId(attemptId: string): Promise<Attempt> {
     const targetAttempt = await this.attemptRepo.findById(attemptId);
     if (targetAttempt === null) {
@@ -66,7 +69,7 @@ export class AttemptServices {
     }
     return targetAttempt;
   }
-
+  // Nộp bài thi
   async submitAttempt(attemptId: string): Promise<void> {
     const target = await this.getAttemptId(attemptId);
     if (target.status === "EXPIRED") {
@@ -79,9 +82,14 @@ export class AttemptServices {
       target.status = "SUBMITTED";
       target.submittedAt = new Date();
     }
+    await Promise.all(
+      target.questionIds.map((temp) => this.newAnswerRecord(temp, attemptId)),
+    );
+    await this.answerRepo.addMany(this.ansRecordArray);
+    this.ansRecordArray = [];
     await this.attemptRepo.update(target);
   }
-
+  // Khoanh đáp án
   async labelAnswer(
     answer: ChoiceLabel | null,
     attemptId: string,
@@ -112,6 +120,7 @@ export class AttemptServices {
     this.tempAnsRepo[attemptId][questionId] = answer;
     return { [attemptId]: { [questionId]: answer } };
   }
+  // So sánh đáp án trong đề và đáp án thực sự
   async compareFunction(
     attemptId: string,
     questionIds: string,
@@ -134,7 +143,8 @@ export class AttemptServices {
     }
     return false;
   }
-  async saveAnswerRecord(questionId: string, attemptId: string): Promise<void> {
+  // Lưu vào result-json
+  async newAnswerRecord(questionId: string, attemptId: string): Promise<void> {
     const newRecord = new AnswerRecord({
       id: crypto.randomUUID(),
       questionId,
@@ -142,6 +152,6 @@ export class AttemptServices {
       selectedLabel: this.tempAnsRepo[attemptId]?.[questionId] ?? null,
       isCorrect: await this.compareFunction(attemptId, questionId),
     });
-    await this.answerRepo.add(newRecord);
+    this.ansRecordArray.push(newRecord);
   }
 }

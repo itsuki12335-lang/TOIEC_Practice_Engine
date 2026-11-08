@@ -28,5 +28,45 @@
     "source": "ETS 2026 Official",
     "description": "Đề thi ở trạng thái nháp (DRAFT) dùng để kiểm thử bộ lọc và lỗi ExamNotPublishedError.",
     "createdAt": "2026-10-26T08:00:00.000Z"
+  },
+  {
+    "id": "exam-mini-02",
+    "title": "TOEIC Mini Test 02 (14 câu - Đầy đủ 7 Part)",
+    "durationMinutes": 15,
+    "status": "PUBLISHED",
+    "totalQuestions": 14,
+    "source": "ETS Practice Collection",
+    "description": "Đề rút gọn số 2 giúp đánh giá nhanh kỹ năng cả 7 Part với các chủ điểm văn phòng và dịch vụ.",
+    "createdAt": "2026-11-01T08:00:00.000Z"
+  },
+  {
+    "id": "exam-part5-01",
+    "title": "TOEIC Reading Mastery - Part 5 (30 câu)",
+    "durationMinutes": 25,
+    "status": "PUBLISHED",
+    "totalQuestions": 30,
+    "source": "ETS Grammar & Vocab Bank",
+    "description": "Bộ đề luyện nhanh 30 câu Part 5 bám sát các dạng câu hỏi từ vựng, từ loại, liên từ và cấu trúc ngữ pháp trọng điểm.",
+    "createdAt": "2026-11-02T08:00:00.000Z"
+  },
+  {
+    "id": "exam-listening-01",
+    "title": "TOEIC Listening Starter - Part 1 & 2 (20 câu)",
+    "durationMinutes": 15,
+    "status": "PUBLISHED",
+    "totalQuestions": 20,
+    "source": "ETS Listening Drill",
+    "description": "Bộ đề luyện phản xạ nghe nhanh gồm 6 câu hình ảnh Part 1 và 14 câu hỏi - đáp Part 2.",
+    "createdAt": "2026-11-03T08:00:00.000Z"
+  },
+  {
+    "id": "exam-part7-01",
+    "title": "TOEIC Reading Comprehension - Part 7 (12 câu)",
+    "durationMinutes": 20,
+    "status": "PUBLISHED",
+    "totalQuestions": 12,
+    "source": "ETS Reading Comprehension Drill",
+    "description": "Bộ đề luyện đọc hiểu Part 7 với các thể loại văn bản thực tế: Email đàm phán hợp đồng, Thông báo nội bộ, Đơn đặt hàng và Bài tuyển dụng.",
+    "createdAt": "2026-11-04T08:00:00.000Z"
   }
 ]

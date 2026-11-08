@@ -7995,5 +7995,2681 @@
     "explanation": "Giải thích chi tiết cho câu số 200 (Part 7): Đáp án đúng là D.",
     "difficulty": 3,
     "createdAt": "2026-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "q-mini02-01",
+    "examId": "exam-mini-02",
+    "part": 1,
+    "order": 1,
+    "content": "[Part 1 - Picture 1] Look at the photo of an architect reviewing blueprints and choose the best description.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "He is inspecting architectural plans on a table.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "He is constructing a brick wall.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "He is packing building supplies into a vehicle.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "He is climbing an aluminum ladder.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A đúng: Người đàn ông đang kiểm tra bản vẽ thiết kế trên bàn làm việc.",
+    "correctChoice": {
+      "label": "A",
+      "text": "He is inspecting architectural plans on a table.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-02",
+    "examId": "exam-mini-02",
+    "part": 1,
+    "order": 2,
+    "content": "[Part 1 - Picture 2] Look at the photo of a cafe patio and choose the best description.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "All the outdoor tables are unoccupied.",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "Patrons are seated under sun umbrellas.",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "A waiter is washing the storefront windows.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Bicycles are parked alongside the curb.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án B đúng: Khách hàng đang ngồi dưới những chiếc ô che nắng ngoài sân.",
+    "correctChoice": {
+      "label": "B",
+      "text": "Patrons are seated under sun umbrellas.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-03",
+    "examId": "exam-mini-02",
+    "part": 2,
+    "order": 3,
+    "content": "[Part 2] Where is the annual regional sales conference being held this year?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "At the Grand Palace Hotel in Chicago.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Yes, I registered three weeks ago.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Our sales increased by fifteen percent.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A trả lời trực tiếp cho câu hỏi 'Where' (ở đâu).",
+    "correctChoice": {
+      "label": "A",
+      "text": "At the Grand Palace Hotel in Chicago.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-04",
+    "examId": "exam-mini-02",
+    "part": 2,
+    "order": 4,
+    "content": "[Part 2] When should we submit our monthly travel expense reimbursement forms?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "By five o'clock this Friday afternoon.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "No, the train ticket was quite affordable.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "I traveled to Dallas for a client meeting.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A trả lời đúng mốc thời gian cho câu hỏi 'When'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "By five o'clock this Friday afternoon.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-05",
+    "examId": "exam-mini-02",
+    "part": 3,
+    "order": 5,
+    "content": "Why has the technician been delayed?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "He had to order replacement components.",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "He was caught in heavy traffic.",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "He went to the incorrect company branch.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "His vehicle broke down on the road.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p3",
+    "explanation": "Đoạn đối thoại nêu: 'He called and mentioned he was caught in heavy traffic'.",
+    "correctChoice": {
+      "label": "B",
+      "text": "He was caught in heavy traffic.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-06",
+    "examId": "exam-mini-02",
+    "part": 3,
+    "order": 6,
+    "content": "What does the woman need to do before 11:00?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Print forty copies of financial handouts.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Email the quarterly budget to David.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Host a video conference with clients.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Inspect the 3rd floor copier himself.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p3",
+    "explanation": "Người phụ nữ nói: 'I have to print forty copies of the financial handouts before the board meeting at 11:00'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Print forty copies of financial handouts.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-07",
+    "examId": "exam-mini-02",
+    "part": 4,
+    "order": 7,
+    "content": "What is the primary purpose of the store announcement?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "To notify shoppers of upcoming store closure.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "To promote an ongoing recruitment fair.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "To report a lost item at customer service.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "To invite customers to a cooking demonstration.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p4",
+    "explanation": "Thông báo nêu: 'Metro Superstore will be closing in fifteen minutes'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "To notify shoppers of upcoming store closure.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-08",
+    "examId": "exam-mini-02",
+    "part": 4,
+    "order": 8,
+    "content": "How can customers obtain a 10% holiday discount?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "By paying entirely in cash.",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "By presenting a Metro Member Card.",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "By spending over fifty dollars.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "By downloading the mobile application.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p4",
+    "explanation": "Bài thông báo nêu: 'present it [Metro Member Card] to receive your special 10% holiday discount'.",
+    "correctChoice": {
+      "label": "B",
+      "text": "By presenting a Metro Member Card.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-09",
+    "examId": "exam-mini-02",
+    "part": 5,
+    "order": 9,
+    "content": "The newly renovated auditorium is capable of _______ up to five hundred conference attendees.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "accommodate",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "accommodating",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "accommodated",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "accommodation",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cấu trúc 'capable of + V-ing', do đó chọn 'accommodating'.",
+    "correctChoice": {
+      "label": "B",
+      "text": "accommodating",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-10",
+    "examId": "exam-mini-02",
+    "part": 5,
+    "order": 10,
+    "content": "All employee travel expenses must be reviewed by the department head _______ being forwarded to accounting.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "prior to",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "due to",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "in case",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "as if",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'prior to + V-ing' nghĩa là 'trước khi'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "prior to",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-11",
+    "examId": "exam-mini-02",
+    "part": 6,
+    "order": 11,
+    "content": "Choose the word that best fits position (11) in the email.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "unavailable",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "profitable",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "permanent",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "unlimited",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p6",
+    "explanation": "Trong lúc nâng cấp phần mềm, cổng hỗ trợ sẽ tạm thời không khả dụng (temporarily unavailable).",
+    "correctChoice": {
+      "label": "A",
+      "text": "unavailable",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-12",
+    "examId": "exam-mini-02",
+    "part": 6,
+    "order": 12,
+    "content": "Choose the word that best fits position (12) in the email.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "patience",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "patient",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "patiently",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "impatient",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p6",
+    "explanation": "Sau tính từ sở hữu 'your' cần một danh từ: 'patience' (sự kiên nhẫn).",
+    "correctChoice": {
+      "label": "A",
+      "text": "patience",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-13",
+    "examId": "exam-mini-02",
+    "part": 7,
+    "order": 13,
+    "content": "What does the memorandum ask staff members to do?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Switch off desk monitors and lighting when leaving.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Submit energy conservation proposals to Facilities.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Work remotely on alternating Fridays.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Replace older desktop computers with laptops.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p7",
+    "explanation": "Thông báo yêu cầu: 'turn off monitors and desk lighting before leaving the office'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Switch off desk monitors and lighting when leaving.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-mini02-14",
+    "examId": "exam-mini-02",
+    "part": 7,
+    "order": 14,
+    "content": "What temperature will the central air conditioning be set to?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "20 degrees Celsius",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "22 degrees Celsius",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "25 degrees Celsius",
+        "isCorrect": true
+      },
+      {
+        "label": "D",
+        "text": "28 degrees Celsius",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-mini02-p7",
+    "explanation": "Văn bản nêu rõ: 'air-conditioning temperature will be set at 25 degrees Celsius'.",
+    "correctChoice": {
+      "label": "C",
+      "text": "25 degrees Celsius",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-01",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 1,
+    "content": "[Part 5 - Câu 1] Ms. Tanaka delivered a _______ presentation on corporate fiscal strategies at the summit.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "persuasive",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "persuasively",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "persuade",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "persuasion",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần một tính từ đứng trước danh từ 'presentation': persuasive.",
+    "correctChoice": {
+      "label": "A",
+      "text": "persuasive",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-02",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 2,
+    "content": "[Part 5 - Câu 2] The committee agreed that the proposed expansion plan was _______ ambitious yet achievable.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "extreme",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "extremely",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "extremes",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "extremity",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần phó từ 'extremely' bổ nghĩa cho tính từ 'ambitious'.",
+    "correctChoice": {
+      "label": "B",
+      "text": "extremely",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-03",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 3,
+    "content": "[Part 5 - Câu 3] Passengers are reminded to keep their personal belongings with _______ at all times while in the station.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "them",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "theirs",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "themselves",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Giới từ 'with' cần đại từ tân ngữ 'them' (with them).",
+    "correctChoice": {
+      "label": "B",
+      "text": "them",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-04",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 4,
+    "content": "[Part 5 - Câu 4] _______ the severe weather conditions, the cargo vessel arrived at the harbor on schedule.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Despite",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Although",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Even though",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Whereas",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'Despite + Noun phrase' mang nghĩa 'mặc dù'. 'Although' đi với mệnh đề.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Despite",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-05",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 5,
+    "content": "[Part 5 - Câu 5] The marketing director emphasized the importance of maintaining _______ relations with local suppliers.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "collaborate",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "collaborative",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "collaborator",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "collaboratively",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần tính từ 'collaborative' bổ nghĩa cho danh từ 'relations'.",
+    "correctChoice": {
+      "label": "B",
+      "text": "collaborative",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-06",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 6,
+    "content": "[Part 5 - Câu 6] Employees who work overtime on weekends are eligible _______ compensatory leave.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "for",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "with",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "to",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "by",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cấu trúc 'eligible for + Noun' (đủ điều kiện hưởng cái gì).",
+    "correctChoice": {
+      "label": "A",
+      "text": "for",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-07",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 7,
+    "content": "[Part 5 - Câu 7] The software installation process will begin _______ as soon as you confirm your administrative password.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "automatically",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "automatic",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "automation",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "automate",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần phó từ 'automatically' bổ nghĩa cho động từ 'begin'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "automatically",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-08",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 8,
+    "content": "[Part 5 - Câu 8] Dr. Gomez has earned a stellar _______ as one of the leading pediatric researchers in the country.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "reputation",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "repetition",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "replacement",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "requirement",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'stellar reputation' có nghĩa là danh tiếng xuất sắc.",
+    "correctChoice": {
+      "label": "A",
+      "text": "reputation",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-09",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 9,
+    "content": "[Part 5 - Câu 9] The revised budget report must be submitted to the finance board _______ Friday at 4:00 P.M.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "no later than",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "not only",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "as well as",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "prior",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'no later than + thời gian' nghĩa là 'chậm nhất là vào lúc'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "no later than",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-10",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 10,
+    "content": "[Part 5 - Câu 10] Customer feedback cards are analyzed _______ to determine areas where service quality can be improved.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "regularly",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "regular",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "regularity",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "regulate",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần phó từ 'regularly' để bổ nghĩa cho động từ 'analyzed'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "regularly",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-11",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 11,
+    "content": "[Part 5 - Câu 11] Please ensure that all confidential documents are _______ stored in locked cabinets overnight.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "securely",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "security",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "secure",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "securing",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần phó từ 'securely' đứng trước động từ phân từ 2 'stored'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "securely",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-12",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 12,
+    "content": "[Part 5 - Câu 12] Neither the design team _______ the manufacturing division had anticipated the surge in product demand.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "nor",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "or",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "and",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "but",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cặp liên từ tương hỗ 'neither ... nor ...'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "nor",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-13",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 13,
+    "content": "[Part 5 - Câu 13] The newly hired administrative assistant showed great _______ in resolving the scheduling conflict.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "initiative",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "initiate",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "initially",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "initiating",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'show initiative' (thể hiện sự chủ động/sáng kiến) là cụm từ cố định.",
+    "correctChoice": {
+      "label": "A",
+      "text": "initiative",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-14",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 14,
+    "content": "[Part 5 - Câu 14] The board members voted _______ in favor of approving the proposed merger agreement.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "unanimously",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "unanimous",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "unanimity",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "unanimating",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần phó từ 'unanimously' (nhất trí đồng thuận) bổ nghĩa cho 'voted'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "unanimously",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-15",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 15,
+    "content": "[Part 5 - Câu 15] Tickets for the international symphony orchestra concert sold out within _______ minutes of release.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "a few",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "much",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "a little",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "each",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'minutes' là danh từ đếm được số nhiều, dùng 'a few'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "a few",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-16",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 16,
+    "content": "[Part 5 - Câu 16] Any defective merchandise should be returned to the manufacturer _______ thirty days of purchase.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "within",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "between",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "among",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "throughout",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'within + khoảng thời gian' nghĩa là 'trong vòng (30 ngày)'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "within",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-17",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 17,
+    "content": "[Part 5 - Câu 17] The warranty covers replacement components, but labor charges are the _______ of the customer.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "responsibility",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "responsible",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "responsibly",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "responsive",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần danh từ 'responsibility' sau mạo từ 'the'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "responsibility",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-18",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 18,
+    "content": "[Part 5 - Câu 18] Because of a technical malfunction in the ventilation system, staff members were instructed to leave _______.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "promptly",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "promptness",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "prompt",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "prompted",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần phó từ 'promptly' (ngay lập tức) bổ nghĩa cho động từ 'leave'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "promptly",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-19",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 19,
+    "content": "[Part 5 - Câu 19] The CEO announced that the company's net quarterly profit has risen _______ compared to last year.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "substantially",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "substantial",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "substance",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "substantiate",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'risen substantially' (tăng trưởng đáng kể).",
+    "correctChoice": {
+      "label": "A",
+      "text": "substantially",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-20",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 20,
+    "content": "[Part 5 - Câu 20] Applicants interested in the graphic designer vacancy should include _______ portfolio with their resume.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "their",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "theirs",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "them",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "they",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần tính từ sở hữu 'their' đứng trước danh từ 'portfolio'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "their",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-21",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 21,
+    "content": "[Part 5 - Câu 21] _______ who wish to attend the leadership development workshop must complete the registration form by noon.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Those",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Whomever",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "These",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "That",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'Those who...' mang nghĩa 'Những người mà...'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Those",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-22",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 22,
+    "content": "[Part 5 - Câu 22] The inspection team found that the production line was operating _______ peak efficiency.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "at",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "on",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "in",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "by",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cụm cố định 'at peak efficiency' (ở mức hiệu suất đỉnh điểm).",
+    "correctChoice": {
+      "label": "A",
+      "text": "at",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-23",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 23,
+    "content": "[Part 5 - Câu 23] Before selecting a catering vendor, please request price _______ from at least three different businesses.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "quotes",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "quotations",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "quotable",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "quoting",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'price quotes' mang nghĩa là bảng báo giá.",
+    "correctChoice": {
+      "label": "A",
+      "text": "quotes",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-24",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 24,
+    "content": "[Part 5 - Câu 24] The construction project has progressed smoothly, _______ occasional delays caused by rainstorms.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "notwithstanding",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "in spite",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "even if",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "as though",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'notwithstanding + Noun phrase' mang nghĩa 'mặc dù'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "notwithstanding",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-25",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 25,
+    "content": "[Part 5 - Câu 25] All lab personnel must wear protective eyewear _______ entering the chemical synthesis chamber.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "when",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "during",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "under",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "between",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'when entering' (rút gọn của 'when they enter'). 'During' đi với danh từ.",
+    "correctChoice": {
+      "label": "A",
+      "text": "when",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-26",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 26,
+    "content": "[Part 5 - Câu 26] A comprehensive manual is provided to assist users _______ configuring the wireless network printer.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "in",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "of",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "at",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "from",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cấu trúc 'assist somebody in doing something'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "in",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-27",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 27,
+    "content": "[Part 5 - Câu 27] The chief financial officer expressed _______ that the company would achieve its annual revenue target.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "confidence",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "confident",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "confidently",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "confidential",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "'expressed confidence that...' (bày tỏ sự tin tưởng rằng...).",
+    "correctChoice": {
+      "label": "A",
+      "text": "confidence",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-28",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 28,
+    "content": "[Part 5 - Câu 28] Unless we receive formal confirmation from the client by 5:00 P.M., the shipment will be _______ until Monday.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "postponed",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "postpones",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "postponing",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "postponement",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Thể bị động: 'will be + V3/ed' -> 'postponed' (bị hoãn lại).",
+    "correctChoice": {
+      "label": "A",
+      "text": "postponed",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-29",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 29,
+    "content": "[Part 5 - Câu 29] Mr. Lin is widely regarded as the most _______ negotiator on the international trade team.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "skillful",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "skillfully",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "skill",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "skills",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần tính từ 'skillful' đứng trước danh từ 'negotiator' trong cấu trúc so sánh nhất 'the most skillful'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "skillful",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p5-30",
+    "examId": "exam-part5-01",
+    "part": 5,
+    "order": 30,
+    "content": "[Part 5 - Câu 30] Under the new corporate wellness guidelines, gym membership fees are _______ reimbursed by the firm.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "partially",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "partial",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "part",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "parting",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Cần phó từ 'partially' (một phần) bổ nghĩa cho động từ 'reimbursed'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "partially",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p1-1",
+    "examId": "exam-listening-01",
+    "part": 1,
+    "order": 1,
+    "content": "[Part 1 - Câu 1] Look at the photo of a chef in a restaurant kitchen and choose the best statement.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "He is seasoning a dish on the stove.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "He is serving food to dining guests.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "He is wiping down dining room tables.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "He is loading cartons into a pantry.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A: Đầu bếp đang nêm gia vị cho món ăn trên bếp.",
+    "correctChoice": {
+      "label": "A",
+      "text": "He is seasoning a dish on the stove.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p1-2",
+    "examId": "exam-listening-01",
+    "part": 1,
+    "order": 2,
+    "content": "[Part 1 - Câu 2] Look at the photo of commuters at an underground train platform.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Passengers are waiting behind the yellow safety line.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Train tickets are being dispensed by a cashier.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "A maintenance worker is sweeping the track.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Suitcases are being loaded onto a luggage rack.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A: Hành khách đang đứng chờ phía sau vạch an toàn màu vàng.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Passengers are waiting behind the yellow safety line.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p1-3",
+    "examId": "exam-listening-01",
+    "part": 1,
+    "order": 3,
+    "content": "[Part 1 - Câu 3] Look at the photo of an outdoor garden market with fruit stands.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Fresh produce is neatly arranged in wooden crates.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "A vendor is packing flowers into gift boxes.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Customers are standing in an orderly checkout line.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Canopies are being dismantled by workers.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A: Nông sản tươi được xếp gọn gàng trong các thùng gỗ.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Fresh produce is neatly arranged in wooden crates.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p1-4",
+    "examId": "exam-listening-01",
+    "part": 1,
+    "order": 4,
+    "content": "[Part 1 - Câu 4] Look at the photo of an office conference room.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Whiteboard notes are being erased by a speaker.",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "Colleagues are engaged in a group discussion around a monitor.",
+        "isCorrect": true
+      },
+      {
+        "label": "C",
+        "text": "Laptop computers are being put into leather briefcases.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Curtains are being drawn across the windows.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án B: Các đồng nghiệp đang thảo luận nhóm quanh màn hình hiển thị.",
+    "correctChoice": {
+      "label": "B",
+      "text": "Colleagues are engaged in a group discussion around a monitor.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p1-5",
+    "examId": "exam-listening-01",
+    "part": 1,
+    "order": 5,
+    "content": "[Part 1 - Câu 5] Look at the photo of an automobile repair workshop.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "A mechanic is examining the engine under the hood.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "A car is being washed at an automated car wash.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Tires are being loaded into the trunk of a sedan.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Drivers are waiting at a fuel pump.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A: Thợ máy đang kiểm tra động cơ dưới nắp capo xe.",
+    "correctChoice": {
+      "label": "A",
+      "text": "A mechanic is examining the engine under the hood.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p1-6",
+    "examId": "exam-listening-01",
+    "part": 1,
+    "order": 6,
+    "content": "[Part 1 - Câu 6] Look at the photo of a city park trail.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Joggers are moving along a paved path bordered by trees.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Park benches are being repainted green.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Boats are docked along the riverbank.",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "A crowd has gathered near an outdoor concert stage.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Đáp án A: Người chạy bộ đang di chuyển dọc con đường trải nhựa rợp bóng cây.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Joggers are moving along a paved path bordered by trees.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-1",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 7,
+    "content": "[Part 2 - Câu 1] Who is responsible for organizing the retirement luncheon for Mr. Evans?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Jessica from Human Resources is in charge of it.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "At the Italian bistro on Elm Street.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "He has been with the company for twenty-five years.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi 'Who' -> Chọn đáp án chỉ người 'Jessica from HR'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Jessica from Human Resources is in charge of it.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-2",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 8,
+    "content": "[Part 2 - Câu 2] Why did the morning train to Philadelphia arrive forty minutes late?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "There was a signal failure near Trenton station.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Platform number three on the lower concourse.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Yes, I bought a round-trip ticket.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi 'Why' -> Giải thích lý do 'There was a signal failure'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "There was a signal failure near Trenton station.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-3",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 9,
+    "content": "[Part 2 - Câu 3] How many copies of the quarterly shareholder report do we need?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "About thirty should be enough for everyone.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "On the heavy cardstock paper.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Mr. Harrison wrote the executive summary.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi 'How many' -> Trả lời số lượng 'About thirty'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "About thirty should be enough for everyone.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-4",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 10,
+    "content": "[Part 2 - Câu 4] Would you prefer to conduct the interview in person or via video link?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "A video call would be much more convenient for me.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "The candidate has great credentials.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "At ten o'clock tomorrow morning.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Câu hỏi lựa chọn 'in person or via video' -> chọn phương án thích hợp.",
+    "correctChoice": {
+      "label": "A",
+      "text": "A video call would be much more convenient for me.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-5",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 11,
+    "content": "[Part 2 - Câu 5] Could you help me set up the audiovisual projector in Conference Room B?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Sure, let me grab the HDMI cable from my desk.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "The conference was very informative.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Room B has fifty comfortable armchairs.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Lời nhờ giúp đỡ -> 'Sure, let me grab...'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Sure, let me grab the HDMI cable from my desk.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-6",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 12,
+    "content": "[Part 2 - Câu 6] Has the new shipment of ergonomic keyboards arrived yet?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Yes, the delivery driver brought them in an hour ago.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "They are very comfortable to type on.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "No, I didn't see the order confirmation email.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi hàng đã đến chưa -> 'Yes, the delivery driver brought them...'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Yes, the delivery driver brought them in an hour ago.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-7",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 13,
+    "content": "[Part 2 - Câu 7] Where can I find an extra cartridge of black toner for the copy machine?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Check the top shelf inside the supply closet.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Five hundred pages per minute.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "I just replaced the paper tray yesterday.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi 'Where' -> 'Check the top shelf inside the supply closet'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Check the top shelf inside the supply closet.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-8",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 14,
+    "content": "[Part 2 - Câu 8] Should we take a taxi to the airport or take the express metro?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "The metro will help us avoid the rush-hour traffic.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Flight 205 departs from Terminal 2.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Only one piece of checked baggage.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Câu hỏi lựa chọn 'taxi or metro' -> chọn metro kèm lý do tránh kẹt xe.",
+    "correctChoice": {
+      "label": "A",
+      "text": "The metro will help us avoid the rush-hour traffic.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-9",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 15,
+    "content": "[Part 2 - Câu 9] Don't you need to submit your passport details before the airline ticket can be booked?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Yes, I'll scan a copy and send it to our travel coordinator now.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "I enjoyed my trip to Geneva last autumn.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "The window seat is my preference.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Câu hỏi phủ định xác nhận -> 'Yes, I'll scan a copy...'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Yes, I'll scan a copy and send it to our travel coordinator now.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-10",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 16,
+    "content": "[Part 2 - Câu 10] When will the facility renovations be completed?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "The general contractor said by mid-December.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "New carpet and energy-efficient lighting.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "On the ground floor near reception.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi 'When' -> 'by mid-December'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "The general contractor said by mid-December.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-11",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 17,
+    "content": "[Part 2 - Câu 11] What did the client say about our revised software proposal?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "They were impressed and asked for an implementation timeline.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "We submitted it electronically via secure upload.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "The presentation lasted forty-five minutes.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi 'What did the client say' -> phản hồi của khách hàng.",
+    "correctChoice": {
+      "label": "A",
+      "text": "They were impressed and asked for an implementation timeline.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-12",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 18,
+    "content": "[Part 2 - Câu 12] You've worked with the new accounting software before, haven't you?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Yes, at my previous financial advisory firm.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "The software license is renewed annually.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Please send the invoice to accounts payable.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Câu hỏi đuôi xác nhận kinh nghiệm -> 'Yes, at my previous firm'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Yes, at my previous financial advisory firm.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-13",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 19,
+    "content": "[Part 2 - Câu 13] Why don't we review the quarterly budget after lunch today?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Sounds great, let's meet in my office around 1:30.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "I brought a chicken sandwich and fruit.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "The total expenditure was within budget limits.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Lời đề nghị 'Why don't we...' -> 'Sounds great, let's meet...'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Sounds great, let's meet in my office around 1:30.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-lis-p2-14",
+    "examId": "exam-listening-01",
+    "part": 2,
+    "order": 20,
+    "content": "[Part 2 - Câu 14] How often does the executive board meet to review strategic investments?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Once every quarter, usually in London.",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "All voting members were present.",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "They approved the capital expenditure.",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "explanation": "Hỏi tần suất 'How often' -> 'Once every quarter'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Once every quarter, usually in London.",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-01",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 1,
+    "content": "What is the primary benefit of the software mentioned in the email?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Decreasing fuel consumption via route optimization",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Managing payroll for long-distance drivers",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Automating customer freight invoice processing",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Providing roadside repair services nationwide",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-01",
+    "explanation": "Văn bản nêu: 'reduce fuel waste by up to 18% through automated route optimization'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Decreasing fuel consumption via route optimization",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-02",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 2,
+    "content": "What does Ms. Rostova offer to Mr. Brooks?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "A 30-day trial for ten vehicles",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "A 50% discount on annual subscriptions",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Free replacement of older delivery trucks",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "A paid consulting workshop in December",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-01",
+    "explanation": "Email ghi rõ: 'offer your team a complimentary 30-day pilot trial across ten of your delivery vans'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "A 30-day trial for ten vehicles",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-03",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 3,
+    "content": "When could the installation take place?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "This Friday morning",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Next Tuesday afternoon",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "At the end of November",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "In thirty days",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-01",
+    "explanation": "Email nêu: 'our technical team can install the tracking hardware this Friday morning'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "This Friday morning",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-04",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 4,
+    "content": "Which facility area will be temporarily closed?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "The swimming pool and sauna",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "The cardio fitness equipment room",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "The aerobic dance studio",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "The entire Westside facility",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-02",
+    "explanation": "Thông báo nêu: 'indoor heated pool and adjacent sauna will be closed'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "The swimming pool and sauna",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-05",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 5,
+    "content": "How long will the scheduled maintenance last?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Approximately one week",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Two full months",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Three consecutive weekends",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Twenty-four hours",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-02",
+    "explanation": "Từ 10/11 đến 17/11 là khoảng 1 tuần (approximately one week).",
+    "correctChoice": {
+      "label": "A",
+      "text": "Approximately one week",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-06",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 6,
+    "content": "What must members present to access the Westside branch at no extra fee?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Their Summit Gold key tag",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "A printed physician clearance form",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "A receipt from last month's membership dues",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "A signed guest waiver",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-02",
+    "explanation": "Văn bản: 'by displaying their Summit Gold membership key tag'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Their Summit Gold key tag",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-07",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 7,
+    "content": "What minimum qualification is required for the position?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Five years of database administration experience",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "A master's degree in corporate finance",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Fluent proficiency in four Asian languages",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Ten years of executive leadership background",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-03",
+    "explanation": "Yêu cầu: 'at least five years of experience administrating high-availability PostgreSQL clusters'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Five years of database administration experience",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-08",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 8,
+    "content": "Which of the following is listed as an employment benefit?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Option to work remotely two days each week",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Complimentary company housing in downtown Singapore",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Free daily gourmet meals for family members",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Full reimbursement for personal vehicle purchases",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-03",
+    "explanation": "Phúc lợi nêu: 'flexible work-from-home options two days per week'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Option to work remotely two days each week",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-09",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 9,
+    "content": "How should interested individuals apply?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "By emailing their resume and GitHub profile",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "By visiting the Singapore headquarters in person",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "By mailing paper documents to the HR department",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "By calling the hiring manager directly",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-03",
+    "explanation": "Bài đăng: 'submit your resume and GitHub profile to careers@globalfintech.com'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "By emailing their resume and GitHub profile",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-10",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 10,
+    "content": "Why was shipping provided free of charge?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Because the order value exceeded $1,500",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "Because the customer picked up items at the warehouse",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "Because it was Horizon Media's very first purchase",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "Because delivery occurred within same-day radius",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-04",
+    "explanation": "Hóa đơn ghi: 'Standard Ground Shipping: FREE (Orders over $1,500)'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "Because the order value exceeded $1,500",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-11",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 11,
+    "content": "How many motorized standing desks were purchased?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "24",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-04",
+    "explanation": "Mục 2: 'Motorized Adjustable Standing Desk - Qty: 6'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "6",
+      "isCorrect": true
+    }
+  },
+  {
+    "id": "q-p7-12",
+    "examId": "exam-part7-01",
+    "part": 7,
+    "order": 12,
+    "content": "By what date must the payment be settled?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "November 27",
+        "isCorrect": true
+      },
+      {
+        "label": "B",
+        "text": "October 28",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "December 15",
+        "isCorrect": false
+      },
+      {
+        "label": "D",
+        "text": "November 10",
+        "isCorrect": false
+      }
+    ],
+    "createdAt": "2026-11-07T07:55:51.869Z",
+    "groupIds": "group-p7-04",
+    "explanation": "Hóa đơn nêu: 'Please remit payment via bank transfer before November 27'.",
+    "correctChoice": {
+      "label": "A",
+      "text": "November 27",
+      "isCorrect": true
+    }
   }
 ]
